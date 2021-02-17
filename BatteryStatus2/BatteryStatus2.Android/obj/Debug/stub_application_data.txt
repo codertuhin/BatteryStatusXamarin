@@ -1,0 +1,2 @@
+android.app.Application
+BatteryStatus2.Android

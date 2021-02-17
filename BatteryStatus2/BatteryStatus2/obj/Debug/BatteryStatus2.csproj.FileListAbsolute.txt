@@ -1,0 +1,16 @@
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\BatteryStatus2.dll
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\BatteryStatus2.pdb
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Core.dll
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Platform.dll
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Xaml.dll
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Core.pdb
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Core.xml
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Platform.pdb
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Xaml.pdb
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\Xamarin.Forms.Xaml.xml
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\obj\Debug\BatteryStatus2.MainPage.xaml.g.cs
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\obj\Debug\BatteryStatus2.App.xaml.g.cs
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\obj\Debug\BatteryStatus2.dll
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\obj\Debug\BatteryStatus2.pdb
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\obj\Debug\BatteryStatus2.dll.mdb
+H:\Upwork\BatteryStatus2\BatteryStatus2\BatteryStatus2\bin\Debug\BatteryStatus2.dll.mdb
